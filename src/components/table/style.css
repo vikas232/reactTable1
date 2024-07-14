@@ -1,0 +1,21 @@
+.table-cell {
+  display: table-cell;
+  /* align-items: center;
+    border: 1px solid #ddd;   */
+  border: 1px solid #ddd;
+  height: 20px;
+  text-align: center;
+  font-size: 19px;
+  color: #333;
+}
+
+.header-cell{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ padding-right: 2px;
+}
+
+.right {
+  margin-left: 10px;
+}
